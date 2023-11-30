@@ -1,0 +1,30 @@
+.card{
+    margin-top: 20px;
+    margin-left: 200px;
+    padding-top: 10px; 
+    padding-bottom: 40px;
+    width: 900px;
+}
+
+.container { 
+    padding-left: 20px;
+  } 
+
+.card-title {
+    margin-left: 0px;
+    margin-top: -150px;
+  } 
+
+.apply-btn {
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  font-size: 15px;
+  margin-left: 790px;
+  cursor: pointer;
+}
+
+.company-name {
+  margin-left:0px;
+  margin-top: -10px;
+}

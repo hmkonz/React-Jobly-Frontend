@@ -1,0 +1,60 @@
+.LoginForm {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.LoginForm form {
+    width: 30%;
+    background-color: lightgray;
+    padding: 50px;
+    border-radius: 5px;
+    margin-bottom: 200px;
+}
+
+.LoginForm form div {
+    padding: 15px;
+    vertical-align: middle;
+    color: rgb(112, 55, 245);
+}
+
+#username #password {
+    text-align: center;
+    height: 35px;
+}
+
+.login-header {
+    color: rgb(112, 55, 245);
+    margin-left: 550px; 
+    width: 100%;
+    text-align: center; 
+}
+
+input {
+    float: right;
+}
+
+label {
+    color: rgb(112, 55, 245);
+    font-weight: bold;
+    display: inline-block;
+}
+
+.alert {
+    margin-left: -75px;
+}
+
+/* .Login-button {
+    background-color: rgb(112, 55, 245);
+    color: white;
+    border-radius: 2px;
+} */
+.Login-btn {
+    margin-left: 10px;
+    margin-top: 20px;
+    background-color: rgb(112, 55, 245);
+    color: white;
+}

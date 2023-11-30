@@ -1,0 +1,50 @@
+.navbar-brand {
+  text-decoration: none;
+  color: rgb(112, 55, 245);
+}
+
+.navbar-brand.active {
+  color:  rgb(6, 6, 252);
+  font-weight: bold; 
+}
+
+.navbar-brand:hover {
+  color:  rgb(6, 6, 252);
+  font-weight: bold; 
+}
+
+.navbar-nav {
+ list-style: none;
+ display: flex;
+ gap: 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: rgb(112, 55, 245);
+} 
+
+.nav-link.active {
+  color:  rgb(6, 6, 252);
+  font-weight: bold; 
+}  
+ 
+.nav-link:hover {
+  color:  rgb(6, 6, 252);
+  font-weight: bold; 
+}   
+
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: white;
+  margin: 0;
+}
+
+
+ 
+  
+
+
+   

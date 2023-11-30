@@ -1,0 +1,62 @@
+.ProfileForm {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.ProfileForm form {
+    width: 30%;
+    background-color: lightgray;
+    padding: 50px;
+    border-radius: 5px;
+    margin-top: -150px;
+}
+
+.ProfileForm form div {
+    padding: 15px;
+    vertical-align: middle;
+}
+
+h1 {
+    color: rgb(112, 55, 245);
+    margin-right: 600px;
+    margin-top: 10px;
+}
+
+label {
+    color: rgb(112, 55, 245);
+    font-weight: bold;
+    display: inline-block;
+}
+
+input {
+    float: right;
+}
+
+#username #password #firstName #lastName #email{
+    text-align: center;
+    height: 35px;
+}
+
+.alert-msg {
+    margin-left: -75px;
+}
+
+.alert-danger p {
+    margin-left: 175px;
+}
+
+.alert-success  {
+    margin-left: 175px;
+}
+
+.profile-btn {
+    margin-left: 10px;
+    margin-top: 20px;
+    background-color: rgb(112, 55, 245);
+    color: white;
+}
+

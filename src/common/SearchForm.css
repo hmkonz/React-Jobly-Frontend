@@ -1,0 +1,35 @@
+/* locates search input box on the page */
+.form-inline {
+  display: flex;
+  margin-left: 200px;
+  margin-top: 40px;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  width: 900px;
+}
+
+/* styles the input box (height, width and border radius */
+.form-control {
+  width: 800px;
+  height: 45px;
+  border-radius: 10px;
+  border: none;
+}
+
+/* styles the search button  */
+.btn {
+  background-color: rgb(112, 55, 245); 
+  border-radius: 10px;
+  height: 47px;
+  color: white;
+  font-size: 25px;
+  border: none;
+}
+
+/* styles the placeholder text color and font-size */
+::placeholder {
+  color:rgb(112, 55, 245);
+  font-size: 20px;
+  padding-left: 10px;
+}
+

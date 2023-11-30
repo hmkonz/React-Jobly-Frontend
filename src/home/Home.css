@@ -1,0 +1,50 @@
+body {
+    background-color: lightseagreen;
+}
+
+.container {
+  margin-top: 150px;           
+}
+
+h1 {
+    color: rgb(112, 55, 245);
+    margin-left: 600px;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.welcome-back-msg {
+  margin-left: 525px;
+  margin-top: 35px;
+  color: rgb(112, 55, 245);
+}
+
+.title {
+  margin-left: 600px;
+}
+
+.header { 
+    color: rgb(112, 55, 245);
+    font-size: 20px;
+    width: 800px;
+    margin-left: 500px;
+} 
+
+.HomePage-btn {
+  text-decoration: none;
+  border-radius: 5px; 
+  padding: 10px;
+  background-color: rgb(112, 55, 245);
+  color: white;
+  margin-left: 10px;
+  
+}
+
+.HomePage-buttons {
+  width: 800px;
+  margin-left: 565px;
+  margin-top: 40px;
+}
+
+
+  

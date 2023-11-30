@@ -1,0 +1,13 @@
+.errorHandler1 {
+    color: red;
+    font-weight: bold;
+    margin-top: 150px;
+    margin-left: 550px;
+  }
+
+  .errorHandler2 {
+    color: red;
+    font-weight: bold;
+    /* margin-top: 165px; */
+    margin-left: 600px;
+  }
